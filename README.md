@@ -1,4 +1,4 @@
-Project Link-https://karan-edusity-clone-reactproject.netlify.app/
+Project Link- https://edusity-git-main-prakruti-nayaks-projects.vercel.app/
 
 # React + Vite
 
